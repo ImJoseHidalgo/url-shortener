@@ -294,7 +294,7 @@ const createIndexHtml = ({ allKeys }) => `
       </div>
       <div class="create" id='create'>
         <h1>A simple link</br>but a powerful tool</br>for <span>Meeeee!!!</span></h1>
-        <p>Would you like to have your own custom url shortener?</br>I leave you the repository with the code and a readme where I explain how you can modify this project to have your own shortener <a target='_blank' href='https://github.com/ImJoseHidalgo'>here.</a></p>
+        <p>You can found the source code <a target='_blank' href='https://github.com/ImJoseHidalgo/url-shortener'>here.</a></p>
         <form id='form-create'>
           <div class="input">
             <label>Shorten your link</label>
